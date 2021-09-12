@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/horario-pvu-wamt/static/css/main.06cb0807.chunk.css",
+    "main.js": "/horario-pvu-wamt/static/js/main.5278ccd0.chunk.js",
+    "main.js.map": "/horario-pvu-wamt/static/js/main.5278ccd0.chunk.js.map",
+    "runtime-main.js": "/horario-pvu-wamt/static/js/runtime-main.8b33fca3.js",
+    "runtime-main.js.map": "/horario-pvu-wamt/static/js/runtime-main.8b33fca3.js.map",
+    "static/js/2.0199005f.chunk.js": "/horario-pvu-wamt/static/js/2.0199005f.chunk.js",
+    "static/js/2.0199005f.chunk.js.map": "/horario-pvu-wamt/static/js/2.0199005f.chunk.js.map",
+    "static/js/3.501523ff.chunk.js": "/horario-pvu-wamt/static/js/3.501523ff.chunk.js",
+    "static/js/3.501523ff.chunk.js.map": "/horario-pvu-wamt/static/js/3.501523ff.chunk.js.map",
+    "index.html": "/horario-pvu-wamt/index.html",
+    "static/css/main.06cb0807.chunk.css.map": "/horario-pvu-wamt/static/css/main.06cb0807.chunk.css.map",
+    "static/js/2.0199005f.chunk.js.LICENSE.txt": "/horario-pvu-wamt/static/js/2.0199005f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b33fca3.js",
+    "static/js/2.0199005f.chunk.js",
+    "static/css/main.06cb0807.chunk.css",
+    "static/js/main.5278ccd0.chunk.js"
+  ]
+}
