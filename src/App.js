@@ -1,23 +1,20 @@
-import logo from './logo.svg';
+import { useState } from 'react';
 import './App.css';
+import Inputs from './components/inputs/Inputs';
+import Schedules from './components/schedules/Schedules';
 
 function App() {
+  const [data, setData] = useState({
+    groups: 0,
+    actualGroup: 1,
+    startTime: '00:00',
+    duration: 20,
+  });
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Inputs setData={setData} />
+      <Schedules data={data} />
     </div>
   );
 }
